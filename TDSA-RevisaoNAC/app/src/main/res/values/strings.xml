@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TDSA-RevisaoNAC</string>
+    <string name="usuario">Usuário:</string>
+    <string name="senha">Senha:</string>
+    <string name="login">Login</string>
+    <string name="escolha_seu_tema_preferido">Escolha seu tema preferido:</string>
+    <string name="vermelho">Vermelho</string>
+    <string name="azul">Azul</string>
+    <string name="verde">Verde</string>
+    <string name="salvar">Salvar</string>
+</resources>
